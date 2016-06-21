@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6"
+    },
+    "files": [
+        "main/handbook.ts",
+        "main/escrito.ts",
+	"recipes/recipes.ts",
+	"recipes/users.ts"
+    ],
+    "compileOnSave": true
+}
